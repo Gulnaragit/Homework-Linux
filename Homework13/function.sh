@@ -20,7 +20,7 @@ read -p "Yo, make a choice from the above: " choice
 
 if [ $choice -eq 1 ]
 then
-	user_folder-file
+	user_folder_file
 elif [ $choice -eq 2 ] 
 then
 	install
